@@ -2,7 +2,7 @@
 This is a [React](https://reactjs.org/) project created with [Vite](https://vitejs.dev/), a fast and lightweight build tool. The app leverages Vite's blazing-fast development experience to deliver high-performance React applications.
 
 ## Project Setup
-To get started, follow these steps:
+To get started, follow these steps: 
  
 **Clone the repository**:
 ```bash
