@@ -1,4 +1,4 @@
-# Vite + React App  🚀
+# Listify - Todo List App ✅
 This is a [React](https://reactjs.org/) project created with [Vite](https://vitejs.dev/), a fast and lightweight build tool. The app leverages Vite's blazing-fast development experience to deliver high-performance React applications.
 
 ## Project Setup
@@ -25,7 +25,7 @@ npm install
    ```
 This will install all necessary packages for the project.
 
-Running the Development Server
+### Running the Development Server
 To start the development server, run the following command:
 ```bash
 npm run dev
