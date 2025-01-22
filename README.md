@@ -50,7 +50,7 @@ ________________________________________
 - 🛠️ **TypeScript Support**: Fully supports TypeScript, ensuring a type-safe development experience for better code quality and maintainability.
 ________________________________________
 ## Live Demonstrations 🌐
-Want to dive straight into the action? You can experience the live version of the React Task Tracker hosted on [Explore Demo](https://taskfyme.netlify.app/). Stay organized, manage your tasks, and boost your productivity with this intuitive task management app. How efficient can your workflow be? 🚀
+Want to dive straight into the action? You can experience the live version of the **Listfy** hosted on [Explore Demo](https://taskfyme.netlify.app/). Stay organized, manage your tasks, and boost your productivity with this intuitive task management app. How efficient can your workflow be? 🚀
 ________________________________________
 ## React + Vite Configuration
 This template provides a minimal setup to get React working in Vite with HMR (Hot Module Replacement). You can enhance your development experience by using official Vite plugins:
