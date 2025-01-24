@@ -7,7 +7,6 @@ To get started, follow these steps:
 **Clone the repository**:
 ```bash
  git clone https://github.com/binayakbartaula11/react-task-tracker.git
- cd react-task-tracker
  ```
 **Create a New Vite Project**:
 
