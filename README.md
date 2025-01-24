@@ -8,16 +8,6 @@ To get started, follow these steps:
 ```bash
  git clone https://github.com/binayakbartaula11/react-task-tracker.git
  ```
-**Create a New Vite Project**:
-
-You can also create a new Vite project by running the following command:
-```bash
-npm create vite@latest
-```
-**During Setup**:
-- Project Name: Choose a name for your project.
-- Template Selection: Select a template based on the framework you want to use. For example: For a React project, choose react.
-
 **Install dependencies**:
 ```bash
 npm install
@@ -38,8 +28,14 @@ In case you need to reset the project, use the following command to restore the 
 ```bash
 npm run reset
 ```
-
 This command will move the current code to a backup folder (src-example) and create a new empty src directory, giving you a clean slate to work with.
+Alternatively, you can create a new Vite project by running:
+```bash
+npm create vite@latest
+```
+**During Setup**:
+- Project Name: Choose a name for your project.
+- Template Selection: Select a template based on the framework you want to use. For example, choose react for a React project.
 ________________________________________
 ##  Key Features
 - ⚡ **Fast Development**: Vite provides an incredibly fast development environment with instant Hot Module Replacement (HMR), ensuring rapid feedback during development.
